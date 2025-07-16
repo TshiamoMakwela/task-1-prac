@@ -1,0 +1,1 @@
+it is a computer interface or a physical enclosure,by running shell commands,you can learn about the system configuration,file management and process control,the terminallets you usetext command while clicking through folders uses a visual interface.teriminal is often faster and more powerful while folder are more intuitive.
